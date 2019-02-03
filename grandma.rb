@@ -2,7 +2,7 @@
  
 if  speak_to_grandma("I LOVE YOU GRANDMA!")
   
-  puts "I LOVE YOU TOO PUMPKIN!"
+  puts "HUH?! SPEAK UP, SONNY!"
   
 end
 # Write a speak_to_grandma method.
